@@ -1,0 +1,1 @@
+select ifnull((select Salary   from Employee where Salary<(select Salary from Employee order by Salary desc limit 1) order by Salary desc limit 1),null)SecondHighestSalary#27.89%

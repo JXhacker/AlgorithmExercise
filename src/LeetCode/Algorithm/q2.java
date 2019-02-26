@@ -6,14 +6,7 @@ package LeetCode.Algorithm;
  */
 
 
-class ListNode {
-    int val;
-    ListNode next;
 
-    ListNode(int x) {
-        val = x;
-    }
-}
 
 public class q2 {
 

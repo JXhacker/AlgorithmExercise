@@ -1,10 +1,30 @@
 package LeetCode.Algorithm;
 
+import java.util.List;
+
 /**
  * @author wanzhiwen
  * @time 2019/2/28
  */
 public class q23 {
+
+
+    //java version using recursion
+    public static ListNode mergeKLists1(ListNode[] lists) {
+        if (lists.length==0) return null;
+        return part(lists, 0, lists.length - 1);
+    }
+
+    public static ListNode part(ListNode[] lists, int start, int end) {
+        if (start == end) {
+            return lists[start];
+        } else {
+            int mid = (start + end) / 2;
+            ListNode l1=part(lists,start,mid);
+            ListNode l2=part(lists,mid+1,end);
+            return mergeTwoLists(l1,l2);
+        }
+    }
 
 
     //my version

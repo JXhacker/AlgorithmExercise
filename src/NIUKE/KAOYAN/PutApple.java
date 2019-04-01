@@ -8,7 +8,7 @@ import java.util.*;
  */
 public class PutApple {
     //该函数表示m个苹果放在n个盘子的方案数
-    public static int putApple(int m, int n) {
+    private static int putApple(int m, int n) {
         //三个迭代退出条件
         if (n > m) return putApple(m, m);
         if (n == 1) return 1;

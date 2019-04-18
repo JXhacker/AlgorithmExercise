@@ -13,15 +13,15 @@ public class Decimal2Binary {
         BigInteger zero = new BigInteger("0");
         BigInteger two = new BigInteger("2");
         BigInteger N;
-        String ans;
+        StringBuilder ans;
         while (sc.hasNext()) {
-            ans = "";
+            ans = new StringBuilder();
             N = sc.nextBigInteger();
             if (N.equals(zero)) {
                 System.out.println(0);
             } else {
                 while (!N.equals(zero)) {
-                    ans = N.mod(two).toString() + ans;
+                    ans.insert(0, N.mod(two).toString());
                     N = N.divide(two);
                 }
                 System.out.println(ans);

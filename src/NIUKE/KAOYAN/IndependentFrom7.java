@@ -14,7 +14,7 @@ public class IndependentFrom7 {
             N = sc.nextInt();
             ans = 0;
             for (int i = 1; i <= N; i++) {
-                if (i % 7 != 0 && String.valueOf(i).indexOf("7") == -1) {
+                if (i % 7 != 0 && !String.valueOf(i).contains("7")) {
                     ans += Math.pow(i, 2);
                 }
             }

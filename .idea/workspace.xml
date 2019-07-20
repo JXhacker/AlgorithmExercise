@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7c26270-22e3-43e7-b59f-6beac0b415cc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Freckles.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/Freckles.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintExtremumSubscripts.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/PrintExtremumSubscripts.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CounterfeitDollar.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/CounterfeitDollar.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Map</find>
+      <find>entry</find>
+      <find>entrySet</find>
+      <find>Entry</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/EatChocolate.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/IndependentFrom7.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/HexadecimalConversion_plus.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/Capitalized.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/AverageAge.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/MagicPocket.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/CreditGradePoint.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/BuyHouse.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/MaxSubMatrix.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/OrderDishes.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/IntegerParitySort.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/DigitalRoots.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/CalSubString.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/ChorusFormation.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/StringSort.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/herbalism.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/MaxAscendingSubsequenceSum.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/MissileInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/HexadecimalConversion_16.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/DigitalSum.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/BinaryTree2.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/ChickenWithRabbitCage.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/Subtracting.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/SimpleCode.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/StringMatching.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/WERTYU.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/SimpleSorting.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/OldBill.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/DigitalReversal.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/BoardGame.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/SumOfFactorials.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/EvaluationExpression.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Algorithm/q36_ValidSudoku.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Algorithm/q37_SudokuSolver.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/LettersOfStatistical.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/CalSubString.java" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/StudentsWithSameScore.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/SuffixSubstringOrdering.cpp" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/Coincidence.cpp" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/MinimumCost.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/WannaGoHome.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/IsTree.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/LogSort.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/LargeIntegerFactor.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/CandySharingGame.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/BitOperation.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/FalseCoin.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/Freckles.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/PrintExtremumSubscripts.c" />
+        <option value="$PROJECT_DIR$/src/NIUKE/KAOYAN/C/CounterfeitDollar.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AlgorithmExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmExercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="KAOYAN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="KAOYAN" type="462c0819:PsiDirectoryNode" />
+              <item name="C" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="@interface&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Map&#9;FILE&#9;jar://D:/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/Map.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Process-Management" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Binary2Decimal">
+    <configuration name="Binary2Decimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIUKE.KAOYAN.Java.Binary2Decimal" />
+      <module name="AlgorithmExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIUKE.KAOYAN.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="BoardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIUKE.KAOYAN.Java.BoardGame" />
+      <module name="AlgorithmExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIUKE.KAOYAN.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DigitalReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIUKE.KAOYAN.Java.DigitalReversal" />
+      <module name="AlgorithmExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIUKE.KAOYAN.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EvaluationExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIUKE.KAOYAN.Java.EvaluationExpression" />
+      <module name="AlgorithmExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIUKE.KAOYAN.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SumOfFactorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIUKE.KAOYAN.Java.SumOfFactorials" />
+      <module name="AlgorithmExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIUKE.KAOYAN.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.DigitalReversal" />
+      <item itemvalue="Application.BoardGame" />
+      <item itemvalue="Application.SumOfFactorials" />
+      <item itemvalue="Application.EvaluationExpression" />
+      <item itemvalue="Application.Binary2Decimal" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Binary2Decimal" />
+        <item itemvalue="Application.EvaluationExpression" />
+        <item itemvalue="Application.SumOfFactorials" />
+        <item itemvalue="Application.BoardGame" />
+        <item itemvalue="Application.DigitalReversal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7c26270-22e3-43e7-b59f-6beac0b415cc" name="Default" comment="" />
+      <created>1543494882914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543494882914</updated>
+      <workItem from="1543494886789" duration="14000" />
+      <workItem from="1543498037220" duration="615000" />
+      <workItem from="1543504769406" duration="1016000" />
+      <workItem from="1543564792929" duration="155000" />
+      <workItem from="1545551043265" duration="3599000" />
+      <workItem from="1545744628341" duration="2573000" />
+      <workItem from="1546934203597" duration="1257000" />
+      <workItem from="1547277807602" duration="13783000" />
+      <workItem from="1547471143578" duration="10222000" />
+      <workItem from="1547540606394" duration="3020000" />
+      <workItem from="1547624462162" duration="9115000" />
+      <workItem from="1547643235449" duration="921000" />
+      <workItem from="1547739369353" duration="1853000" />
+      <workItem from="1547825984450" duration="218000" />
+      <workItem from="1547897655907" duration="5999000" />
+      <workItem from="1547966147353" duration="4171000" />
+      <workItem from="1548080673334" duration="807000" />
+      <workItem from="1548231020620" duration="1294000" />
+      <workItem from="1548701679456" duration="595000" />
+      <workItem from="1550892201663" duration="3631000" />
+      <workItem from="1550989394170" duration="2576000" />
+      <workItem from="1551059763488" duration="7584000" />
+      <workItem from="1551100077093" duration="1140000" />
+      <workItem from="1551168933348" duration="3095000" />
+      <workItem from="1551229778111" duration="23263000" />
+      <workItem from="1551447259330" duration="12391000" />
+      <workItem from="1551596855096" duration="981000" />
+      <workItem from="1551597998708" duration="4802000" />
+      <workItem from="1551663189255" duration="12347000" />
+      <workItem from="1551750094459" duration="4533000" />
+      <workItem from="1551835517908" duration="5434000" />
+      <workItem from="1552354849353" duration="19960000" />
+      <workItem from="1552532859320" duration="312000" />
+      <workItem from="1553303207505" duration="21094000" />
+      <workItem from="1553431028518" duration="1068000" />
+      <workItem from="1553498520674" duration="4808000" />
+      <workItem from="1553605122416" duration="2904000" />
+      <workItem from="1553681517103" duration="2538000" />
+      <workItem from="1553866043355" duration="1333000" />
+      <workItem from="1554025976514" duration="5712000" />
+      <workItem from="1554085152069" duration="4202000" />
+      <workItem from="1554107371711" duration="58000" />
+      <workItem from="1554195371717" duration="11451000" />
+      <workItem from="1554345007971" duration="13279000" />
+      <workItem from="1554569448948" duration="607000" />
+      <workItem from="1554635819127" duration="2059000" />
+      <workItem from="1554770565656" duration="1769000" />
+      <workItem from="1554885169085" duration="1721000" />
+      <workItem from="1554913273699" duration="374000" />
+      <workItem from="1554951268515" duration="2526000" />
+      <workItem from="1555324944381" duration="3167000" />
+      <workItem from="1555421060043" duration="935000" />
+      <workItem from="1555424677435" duration="124000" />
+      <workItem from="1555571383687" duration="5632000" />
+      <workItem from="1555578802479" duration="57000" />
+      <workItem from="1555724705125" duration="3252000" />
+      <workItem from="1555807136592" duration="1369000" />
+      <workItem from="1555893065257" duration="1987000" />
+      <workItem from="1555979321552" duration="1615000" />
+      <workItem from="1556068541067" duration="2679000" />
+      <workItem from="1556159293897" duration="6003000" />
+      <workItem from="1556263159374" duration="4161000" />
+      <workItem from="1556418405144" duration="2251000" />
+      <workItem from="1556521503253" duration="1780000" />
+      <workItem from="1556620670245" duration="1680000" />
+      <workItem from="1557041837647" duration="3165000" />
+      <workItem from="1557277291165" duration="1488000" />
+      <workItem from="1558311962004" duration="1965000" />
+      <workItem from="1558400319182" duration="5717000" />
+      <workItem from="1558426877715" duration="244000" />
+      <workItem from="1558484672319" duration="2929000" />
+      <workItem from="1558582856506" duration="781000" />
+      <workItem from="1558685003216" duration="1504000" />
+      <workItem from="1558745038112" duration="100000" />
+      <workItem from="1559113293805" duration="202000" />
+      <workItem from="1563179286487" duration="961000" />
+      <workItem from="1563264283148" duration="796000" />
+      <workItem from="1563355228982" duration="176000" />
+      <workItem from="1563454267273" duration="656000" />
+      <workItem from="1563524608234" duration="750000" />
+    </task>
+    <task id="LOCAL-00092" summary="神奇的口袋">
+      <created>1555896910766</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1555896910766</updated>
+    </task>
+    <task id="LOCAL-00093" summary="学分绩点">
+      <created>1555898102165</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1555898102165</updated>
+    </task>
+    <task id="LOCAL-00094" summary="买房子">
+      <created>1555984305134</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1555984305135</updated>
+    </task>
+    <task id="LOCAL-00095" summary="最大子矩阵">
+      <created>1555989659083</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1555989659085</updated>
+    </task>
+    <task id="LOCAL-00096" summary="点菜问题">
+      <created>1556068687702</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1556068687702</updated>
+    </task>
+    <task id="LOCAL-00097" summary="整数奇偶排序">
+      <created>1556069640582</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1556069640582</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Digital Roots">
+      <created>1556161591915</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1556161591916</updated>
+    </task>
+    <task id="LOCAL-00099" summary="子串计算">
+      <created>1556187171183</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1556187171183</updated>
+    </task>
+    <task id="LOCAL-00100" summary="子串计算">
+      <created>1556187194634</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1556187194634</updated>
+    </task>
+    <task id="LOCAL-00101" summary="合唱队形递归版">
+      <created>1556287287548</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1556287287549</updated>
+    </task>
+    <task id="LOCAL-00102" summary="合唱队形 动态规划">
+      <created>1556291744436</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1556291744436</updated>
+    </task>
+    <task id="LOCAL-00103" summary="字符串排序">
+      <created>1556329669130</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1556329669130</updated>
+    </task>
+    <task id="LOCAL-00104" summary="采药">
+      <created>1556331921490</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1556331921490</updated>
+    </task>
+    <task id="LOCAL-00105" summary="最大上升子序列和">
+      <created>1556437156462</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1556437156463</updated>
+    </task>
+    <task id="LOCAL-00106" summary="导弹拦截">
+      <created>1556437252440</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1556437252440</updated>
+    </task>
+    <task id="LOCAL-00107" summary="16进制转换">
+      <created>1556437812777</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1556437812777</updated>
+    </task>
+    <task id="LOCAL-00108" summary="数字求和">
+      <created>1556521747701</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1556521747701</updated>
+    </task>
+    <task id="LOCAL-00109" summary="二叉树">
+      <created>1556524566038</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1556524566038</updated>
+    </task>
+    <task id="LOCAL-00110" summary="鸡兔同笼">
+      <created>1556624775588</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1556624775589</updated>
+    </task>
+    <task id="LOCAL-00111" summary="加减乘除">
+      <created>1556625998809</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1556625998809</updated>
+    </task>
+    <task id="LOCAL-00112" summary="简单密码">
+      <created>1557049057526</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1557049057528</updated>
+    </task>
+    <task id="LOCAL-00113" summary="String Matching">
+      <created>1557049999196</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1557049999196</updated>
+    </task>
+    <task id="LOCAL-00114" summary="WERTYU">
+      <created>1557277374572</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1557277374573</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Simple Sort">
+      <created>1557279114066</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1557279114066</updated>
+    </task>
+    <task id="LOCAL-00116" summary="OldBill">
+      <created>1558314659573</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1558314659574</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Fibonacci">
+      <created>1558315152591</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1558315152591</updated>
+    </task>
+    <task id="LOCAL-00118" summary="数字反转">
+      <created>1558316149619</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1558316149619</updated>
+    </task>
+    <task id="LOCAL-00119" summary="棋盘游戏">
+      <created>1558410389369</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1558410389370</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Sum Of Factorials">
+      <created>1558489475971</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1558489475972</updated>
+    </task>
+    <task id="LOCAL-00121" summary="计算表达式">
+      <created>1558495384113</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1558495384113</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Valid Sudoku">
+      <created>1558583084815</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1558583084815</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Sudoku Solver">
+      <created>1558602206836</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1558602206836</updated>
+    </task>
+    <task id="LOCAL-00124" summary="文件整理">
+      <created>1558685314387</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1558685314389</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Letters of statistical">
+      <created>1558685380613</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1558685380613</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Count the number of students with the same score">
+      <created>1558686321950</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1558686321950</updated>
+    </task>
+    <task id="LOCAL-00127" summary="后缀字串排序">
+      <created>1559113405119</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1559113405119</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Coincidence">
+      <created>1559113477597</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1559113477597</updated>
+    </task>
+    <task id="LOCAL-00129" summary="最小花费">
+      <created>1563179398033</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1563179398034</updated>
+    </task>
+    <task id="LOCAL-00130" summary="I Wanna Go Home">
+      <created>1563194809521</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1563194809521</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Is it a tree?">
+      <created>1563264372225</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1563264372226</updated>
+    </task>
+    <task id="LOCAL-00132" summary="日志排序">
+      <created>1563264480909</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1563264480910</updated>
+    </task>
+    <task id="LOCAL-00133" summary="大整数的因子">
+      <created>1563355331639</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1563355331640</updated>
+    </task>
+    <task id="LOCAL-00134" summary="candy sharing game">
+      <created>1563355395581</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1563355395581</updated>
+    </task>
+    <task id="LOCAL-00135" summary="位操作练习">
+      <created>1563454416974</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1563454416975</updated>
+    </task>
+    <task id="LOCAL-00136" summary="位操作练习">
+      <created>1563454567414</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1563454567414</updated>
+    </task>
+    <task id="LOCAL-00137" summary="False coin">
+      <created>1563454679931</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1563454679931</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Freckles">
+      <created>1563454881683</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1563454881683</updated>
+    </task>
+    <task id="LOCAL-00139" summary="打印极值下标">
+      <created>1563524698805</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1563524698806</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Counterfeit Dollar">
+      <created>1563524787751</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1563524787751</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="298905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50268096" side_tool="true" weight="0.43459916" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3298217" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.2137834" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731904" weight="0.23347399" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32911393" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21849866" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3867792" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32489452" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24472573" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14879356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.2137834" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32897604" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3298217" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cpp" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OldBill" />
+    <MESSAGE value="Fibonacci" />
+    <MESSAGE value="数字反转" />
+    <MESSAGE value="棋盘游戏" />
+    <MESSAGE value="Sum Of Factorials" />
+    <MESSAGE value="Evaluation expression" />
+    <MESSAGE value="计算表达式" />
+    <MESSAGE value="Valid Sudoku" />
+    <MESSAGE value="Sudoku Solver" />
+    <MESSAGE value="文件整理" />
+    <MESSAGE value="Letters of statistical" />
+    <MESSAGE value="Count the number of students with the same score" />
+    <MESSAGE value="后缀字串排序" />
+    <MESSAGE value="Coincidence" />
+    <MESSAGE value="最小花费" />
+    <MESSAGE value="I Wanna Go Home" />
+    <MESSAGE value="Is it a tree?" />
+    <MESSAGE value="日志排序" />
+    <MESSAGE value="大整数的因子" />
+    <MESSAGE value="candy sharing game" />
+    <MESSAGE value="位操作练习" />
+    <MESSAGE value="False coin" />
+    <MESSAGE value="Freckles" />
+    <MESSAGE value="打印极值下标" />
+    <MESSAGE value="Counterfeit Dollar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counterfeit Dollar" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Algorithm/q16.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="72" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/ChorusFormation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/StringSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/herbalism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/MaxAscendingSubsequenceSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/MissileInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/HexadecimalConversion_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/DigitalSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/ChickenWithRabbitCage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/Subtracting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/SimpleCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/StringMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/WERTYU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/SimpleSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/OldBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/DigitalReversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/SumOfFactorials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/EvaluationExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Algorithm/q35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Algorithm/q31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Algorithm/q26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Algorithm/q22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Algorithm/q33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Algorithm/q36_ValidSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/LettersOfStatistical.c" />
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/Abc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/AverageAge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/BinaryTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/BinaryTree2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/BoardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/BuyHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/Binary2Decimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Algorithm/q37_SudokuSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/StudentsWithSameScore.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/Java/CalSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/LettersOfStatistical.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/MinimumCost.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/Coincidence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/WannaGoHome.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/SuffixSubstringOrdering.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/IsTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/LogSort.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/LargeIntegerFactor.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/CandySharingGame.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/BitOperation.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="167" selection-start-column="167" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/FalseCoin.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/Freckles.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/PrintExtremumSubscripts.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIUKE/KAOYAN/C/CounterfeitDollar.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
